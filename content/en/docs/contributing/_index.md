@@ -35,8 +35,7 @@ Here is some advice to help you get started:
 
 - **You don't need to be an OTel expert:** Your existing skills and professional
   context are themselves useful. SREs, DevRel folks, and non-native English
-  speakers all bring diverse perspectives that the project actively benefits
-  from.
+  speakers all bring diverse perspectives that actively benefit the project.
 
 ### <i class='far fa-exclamation-triangle text-warning '></i> First time contributing? {#first-time-contributing}
 
